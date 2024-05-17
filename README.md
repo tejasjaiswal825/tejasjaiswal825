@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milindnrman" alt="milindnrman" /></a> </p>
 
-- 🔭 I’m currently working on *Flipkart Selling Brand*
+- 🔭 I’m currently working on *Zomato Food Delivery*
 
 - 🌱 I’m currently learning *PowerBI, Advance Excell*
 
