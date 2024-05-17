@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Jaiswal</h1>
-<h3 align="center">A passionate Data Analyst developer from India</h3>
-
-- 🔭 I’m currently working on *Zomato Food Delivery*
-
-- 🌱 I’m currently learning *PowerBI, Advance Excell*
-
-- 👯 I’m looking to collaborate on *Employee Birthday System*
-
-- 🤝 I’m looking for help with *Advance Excell*
-
-- 💬 Ask me about *Data analyst*
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 📫 How to reach me *tejasjaiswal825@gmail.com*
 
