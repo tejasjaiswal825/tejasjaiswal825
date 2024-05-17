@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *tejasjaiswal825@gmail.com*
 
-- 📄 Know about my experiences [
+- 📄 Know about my experiences (https://drive.google.com/file/d/13sbYlqP0SCtEZDXxAh2bMw8lyyuYZFjA/view?usp=drive_link)
 
 - ⚡ Fun fact *I'm activy search out trending data set !!!*
 
